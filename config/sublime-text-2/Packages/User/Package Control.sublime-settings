@@ -1,0 +1,12 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"CoffeeScript",
+		"Emmet",
+		"Package Control",
+		"Rails Partial",
+		"RailsCasts Colour Scheme",
+		"TidyHTML5"
+	]
+}

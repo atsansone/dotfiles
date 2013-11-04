@@ -1,0 +1,7 @@
+[user]
+	name = Anthony Sansone
+	email = github@anthony-sansone.com
+[color]
+	ui = auto
+[core]
+	editor = vim

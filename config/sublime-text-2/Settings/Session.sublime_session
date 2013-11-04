@@ -1,0 +1,747 @@
+{
+	"folder_history":
+	[
+	],
+	"last_window_id": 1,
+	"settings":
+	{
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"new",
+						"new_object"
+					],
+					[
+						"al",
+						"alumni"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/anthony/Projects/alumniDB/app/controllers/alumni_controller.rb",
+					"settings":
+					{
+						"buffer_size": 2379,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/anthony/Projects/alumniDB/app/datatables/alumni_datatable.rb",
+					"settings":
+					{
+						"buffer_size": 1711,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/anthony/Projects/alumniDB/app/views/alumni/edit.html.erb",
+					"settings":
+					{
+						"buffer_size": 249,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/anthony/Projects/alumniDB/app/views/alumni/_form.html.erb",
+					"settings":
+					{
+						"buffer_size": 6280,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/anthony/Downloads/getpip.py",
+					"settings":
+					{
+						"buffer_size": 6149,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/anthony/Projects/mongodb/docs/makefile",
+					"settings":
+					{
+						"buffer_size": 642,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "Package Control Messages\n========================\n\nPackage Control:\n---------------\n\n  Package Control 2.0.0 Changelog:\n  \n  \n  Today I'd like to announce two big milestones:\n  \n   - Package Control 2.0 for ST2 and ST3\n   - A new Package Control website at https://sublime.wbond.net\n  \n  The full announcement about the PC 2.0 release is available on the news page at\n  https://sublime.wbond.net/news.\n  \n  If you are running the \"testing\" version of Package Control (1.6.9 - 1.6.11),\n  you will likely need to restart Sublime Text before Package Control will work\n  properly.\n  \n  \n  Giving Back\n  \n  Part of the new Package Control website is in-depth information about each\n  package. The new package pages include a link where you can give a tip to the\n  developer/maintainer of your favorite packages.\n  \n  The donate links go to https://www.gittip.com, which is building an excellent,\n  and open platform for users to say \"thank you\" to open source developers. It\n  is possible to give a small amount each week, such as $0.25, however these small\n  amounts multiplied by the large size of the community can be a big thank you!\n  \n  One of the less glamorous jobs involved with making Package Control happen is\n  reviewing and giving package developers feedback before adding their packages\n  to the default channel. The follow contributors deserve a big thank you:\n  \n  FichteFoll - https://www.gittip.com/FichteFoll/\n  joneshf    - https://www.gittip.com/on/github/joneshf/\n  sentience  - https://www.gittip.com/on/github/sentience/\n  \n  Finally, I'm looking to raise some money to obtain a Mac Mini for the purposes\n  of supporting ST3 on OS X and a license for a Windows 8 VM. If you are inclined\n  to donate to those, or want to just buy me a beer, check out:\n  \n  https://sublime.wbond.net/say_thanks\n  \n  \n  Notable Features\n  \n   - A new Windows downloader that uses WinINet and should provide much better\n     proxy support\n  \n   - Using operating system-supplied SSL CA certs on all platforms, with a\n     deprecated fallback to certificates served through the channel\n  \n   - Proxy server fixes for OS X\n  \n   - A completely revamped channel and repository system with support for more\n     information about packages including labels; readme, issues, donate and buy\n     URLs; tag-based releases; platform targetting without a custom packages.json\n     file; and Sublime Text version targetting\n  \n   - Support for installing via .sublime-package files in ST3, which allows users\n     to easily override specific files from the package. Package developers who\n     need a loose folder of files may include a .no-sublime-package file in their\n     repo.\n  \n   - In the coming days the new Package Control website will be released as open\n     source on GitHub\n  \n",
+					"settings":
+					{
+						"buffer_size": 2779,
+						"line_ending": "Unix",
+						"name": "Package Control Messages",
+						"scratch": true
+					}
+				},
+				{
+					"file": "/home/anthony/Projects/alumniDB/app/views/alumni/_degree_fields.html.erb",
+					"settings":
+					{
+						"buffer_size": 550,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/anthony/Projects/alumniDB/app/views/alumni/_position_fields.html.erb",
+					"settings":
+					{
+						"buffer_size": 1138,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/anthony/Projects/alumniDB/app/helpers/alumni_helper.rb",
+					"settings":
+					{
+						"buffer_size": 2671,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/anthony/Projects/alumniDB/app/assets/javascripts/alumni.js.coffee",
+					"settings":
+					{
+						"buffer_size": 1241,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/anthony/Projects/alumniDB/app/helpers/application_helper.rb",
+					"settings":
+					{
+						"buffer_size": 445,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/anthony/Projects/alumniDB/app/models/alumnus.rb",
+					"settings":
+					{
+						"buffer_size": 3873,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "<table class='changes_table'>",
+					"settings":
+					{
+						"buffer_size": 29,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"selected_items":
+				[
+					[
+						"ind",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"syn rails",
+						"Set Syntax: Ruby on Rails"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"rails",
+						"Set Syntax: Ruby on Rails"
+					],
+					[
+						"indent",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"package",
+						"Preferences: Browse Packages"
+					],
+					[
+						"syn ra",
+						"Set Syntax: Ruby on Rails"
+					],
+					[
+						"syn rail",
+						"Set Syntax: SQL (Rails)"
+					],
+					[
+						"inde",
+						"Indentation: Reindent Lines"
+					]
+				],
+				"width": 575.0
+			},
+			"console":
+			{
+				"height": 213.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/anthony/Projects/alumniDB/Gemfile",
+				"/home/anthony/Projects/alumniDB/app/views/alumni/show.html.erb",
+				"/home/anthony/Projects/alumniDB/app/views/alumni/_show_position.html.erb",
+				"/home/anthony/.config/sublime-text-2/Packages/User/CoffeeScript.sublime-settings",
+				"/home/anthony/Projects/alumniDB/app/helpers/alumni_helper.rb",
+				"/home/anthony/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+				"/home/anthony/Projects/alumniDB/app/views/layouts/application.html.erb",
+				"/home/anthony/Projects/alumniDB/app/assets/javascripts/application.js",
+				"/home/anthony/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+				"/home/anthony/Projects/alumniDB/config/routes.rb",
+				"/home/anthony/Projects/alumniDB/app/views/alumni/_show_internet.html.erb",
+				"/home/anthony/.rvm/gems/ruby-1.9.3-p194/gems/paper_trail_manager-0.2.0/app/controllers/paper_trail_manager/changes_controller.rb",
+				"/home/anthony/.zshrc",
+				"/home/anthony/Projects/alumniDB/app/views/alumni/_form.html.erb",
+				"/home/anthony/.rvm/gems/ruby-1.9.3-p194/gems/paper_trail_manager-0.2.0/app/views/paper_trail_manager/changes/_version.html.erb",
+				"/home/anthony/.rvm/gems/ruby-1.9.3-p194/gems/paper_trail_manager-0.2.0/app/views/paper_trail_manager/changes/index.html.erb",
+				"/home/anthony/Projects/alumniDB/app/views/alumni/_show_address.html.erb",
+				"/home/anthony/Projects/alumniDB/app/views/alumni/index.html.erb",
+				"/home/anthony/Projects/alumniDB/app/datatables/alumni_datatable.rb",
+				"/home/anthony/Projects/alumniDB/app/controllers/alumni_controller.rb",
+				"/home/anthony/Projects/alumniDB/app/models/alumnus.rb",
+				"/home/anthony/Projects/alumniDB/app/models/position.rb",
+				"/home/anthony/Projects/alumniDB/app/controllers/versions_controller.rb",
+				"/home/anthony/Projects/alumniDB_gems.txt",
+				"/home/anthony/Projects/alumniDB/app/controllers/metros_controller.rb",
+				"/usr/share/applications/defaults.list",
+				"/usr/share/applications/sublime.desktop"
+			],
+			"find":
+			{
+				"height": 49.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"2",
+					" %>",
+					"  %>",
+					"  ",
+					"{ ",
+					" }",
+					" %>",
+					"_",
+					":input_html => { class: \"input-medium\" }  %>",
+					"<%= f.input :",
+					"td",
+					"tbody",
+					"	",
+					"d.",
+					"p.",
+					", dependent: :destroy",
+					":git =>",
+					"gedit"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"sublime"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 5,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/anthony/Projects/alumniDB/app/controllers/alumni_controller.rb",
+							"settings":
+							{
+								"buffer_size": 2379,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Ruby/Ruby.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/anthony/Projects/alumniDB/app/datatables/alumni_datatable.rb",
+							"settings":
+							{
+								"buffer_size": 1711,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1090,
+										1090
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Rails/Ruby on Rails.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1188.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/home/anthony/Projects/alumniDB/app/views/alumni/edit.html.erb",
+							"settings":
+							{
+								"buffer_size": 249,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										249,
+										249
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/home/anthony/Projects/alumniDB/app/views/alumni/_form.html.erb",
+							"settings":
+							{
+								"buffer_size": 6280,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										4943,
+										4943
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 462.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/home/anthony/Downloads/getpip.py",
+							"settings":
+							{
+								"buffer_size": 6149,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										183,
+										183
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Python/Python.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/home/anthony/Projects/mongodb/docs/makefile",
+							"settings":
+							{
+								"buffer_size": 642,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										277,
+										277
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Makefile/Makefile.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"settings":
+							{
+								"buffer_size": 2779,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2779,
+										2779
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true,
+									"word_wrap": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"file": "/home/anthony/Projects/alumniDB/app/views/alumni/_degree_fields.html.erb",
+							"settings":
+							{
+								"buffer_size": 550,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										180,
+										180
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 8,
+							"file": "/home/anthony/Projects/alumniDB/app/views/alumni/_position_fields.html.erb",
+							"settings":
+							{
+								"buffer_size": 1138,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1138,
+										1138
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 561.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 9,
+							"file": "/home/anthony/Projects/alumniDB/app/helpers/alumni_helper.rb",
+							"settings":
+							{
+								"buffer_size": 2671,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1574,
+										1574
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Ruby/Ruby.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1485.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 10,
+							"file": "/home/anthony/Projects/alumniDB/app/assets/javascripts/alumni.js.coffee",
+							"settings":
+							{
+								"buffer_size": 1241,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										521,
+										521
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/CoffeeScript/CoffeeScript.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true,
+									"word_wrap": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 396.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 11,
+							"file": "/home/anthony/Projects/alumniDB/app/helpers/application_helper.rb",
+							"settings":
+							{
+								"buffer_size": 445,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										159,
+										159
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Rails/Ruby on Rails.tmLanguage",
+									"word_wrap": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 12,
+							"file": "/home/anthony/Projects/alumniDB/app/models/alumnus.rb",
+							"settings":
+							{
+								"buffer_size": 3873,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										3386,
+										3386
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Ruby/Ruby.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1914.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 13,
+							"settings":
+							{
+								"buffer_size": 29,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										29,
+										29
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"position": "0,1,0,0,0,0,0,0,0,1916,874",
+			"replace":
+			{
+				"height": 64.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"install",
+						"/home/anthony/.rvm/gems/ruby-1.9.3-p194/gems/paper_trail_manager-0.2.0/app/views/paper_trail_manager/changes/index.html.erb"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"window_id": 1,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
