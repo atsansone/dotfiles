@@ -48,6 +48,9 @@ alias gitc='git commit'
 alias gitcm='git commit -m'
 alias gitck='git checkout'
 alias gitm='git merge'
+alias gitph='git push'
+alias gitpl='git pull'
+alias gitcl='git clone'
 
 PATH=$PATH:$HOME/.rvm/bin # Add RVM to PATH for scripting
 PATH=$PATH:$HOME/.rvm/gems/ruby-1.9.3-p194/bin
