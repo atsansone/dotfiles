@@ -37,9 +37,17 @@ source $ZSH/oh-my-zsh.sh
 
 # Custom aliases
 alias c='clear'
-alias l='ls -al'
+alias l='ls -alh'
 alias s='sublime'
 alias alumni='cd ~/Projects/alumniDB/'
+alias actenv='source bin/activate'
+alias deactenv='deactivate'
+alias gits='git status'
+alias gita='git add'
+alias gitc='git commit'
+alias gitcm='git commit -m'
+alias gitck='git checkout'
+alias gitm='git merge'
 
 PATH=$PATH:$HOME/.rvm/bin # Add RVM to PATH for scripting
 PATH=$PATH:$HOME/.rvm/gems/ruby-1.9.3-p194/bin
